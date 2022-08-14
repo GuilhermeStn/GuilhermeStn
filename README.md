@@ -1,4 +1,4 @@
-### EU SOU O GUI ! ###
+### EU SOU O GUI !👊🏻 ###
 
 -🌱 Hoje não trabalho
 
