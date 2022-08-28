@@ -1,4 +1,4 @@
-### **EU SOU O GUI** 👊🏻 ###
+# <div align="center">Olá, seja bem vindo(a) ao meu perfil,<br> eu sou o _Gui_ 👊🏻</div> #
 
 -🌱 Hoje não trabalho
 
@@ -20,3 +20,12 @@
   <img align="center" alt="github" height="35" width="35" src="/assets/GitHub.png">
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div><br>
+<div align="center">
+  
+  ![Snake animation](https://github.com/GuilhermeStn/GuilhermeStn/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
+<div align="center">
+  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
+</div>
