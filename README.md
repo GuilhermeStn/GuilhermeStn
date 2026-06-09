@@ -130,31 +130,10 @@ Projetos voltados para:
 - JSON
 - Integração de sistemas
 - Tratamento de erros
-
----
-
-## 🎯 Objetivos para 2026
-
-- Conseguir uma oportunidade de estágio na área de tecnologia
-- Aprimorar conhecimentos em React e TypeScript
-- Evoluir para desenvolvimento Full Stack
-- Contribuir em projetos Open Source
-- Expandir conhecimentos em Cybersegurança
-
 ---
 
 ## 📫 Contato
 
-📧 Seu E-mail
+📧 guilhermesantosmendes67@gmail.com
 
 💼 LinkedIn: Seu LinkedIn
-
-🐙 GitHub: https://github.com/seuusuario
-
----
-
-<div align="center">
-
-### 🚀 "Transformando aprendizado em projetos e projetos em oportunidades."
-
-</div>
